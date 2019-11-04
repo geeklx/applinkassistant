@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sairobo.hexiangketang",
+    "sha256_cert_fingerprints":
+    ["59:61:B8:37:D4:C7:1B:B0:89:A8:0E:DD:E7:67:F8:DB:52:E2:DD:12:D0:93:FC:4C:86:B9:E5:15:AE:22:19:EF"]
+  }
+}]
